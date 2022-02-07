@@ -1,0 +1,3 @@
+The first Berkeley's AI project.
+
+I am implementing and using different algorithms like A*,USC and BFS to make Pacman eat all the dots!
